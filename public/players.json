@@ -1,0 +1,72 @@
+[
+  {
+    "playerId": 1,
+    "name": "John Smith",
+    "country": "Australia",
+    "image": "./player_Img/JohnSmith1.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Left-arm fast-medium",
+    "biddingPrice": 1000000
+  },
+  {
+    "playerId": 2,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "./player_Img/viratKohli2.png",
+    "role": "All-Rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 1200000
+  },
+  {
+    "playerId": 3,
+    "name": "Michael Clarke",
+    "country": "England",
+    "image": "./player_Img/MichaelClarke3.png",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 900000
+  },
+  {
+    "playerId": 4,
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "image": "./player_Img/tamim4.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 850000
+  },
+  {
+    "playerId": 5,
+    "name": "Aiden White",
+    "country": "South Africa",
+    "image": "./player_Img/AidenWhite5.png",
+    "role": "All-Rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-arm spin",
+    "biddingPrice": 1400000
+  },
+  {
+    "playerId": 6,
+    "name": "Sachin Tendulkar",
+    "country": "India",
+    "image": "./player_Img/sachin6.png",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Left-arm fast-medium",
+    "biddingPrice": 950000
+  },
+  {
+    "playerId": 7,
+    "name": "Mashrafe Bin Mortaza",
+    "country": "Bangladesh",
+    "image": "./player_Img/mashrafe7.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 850000
+  }
+]
